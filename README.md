@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Bakri Ahmad RIdhwan 👋
+
+![idcamp](/img/cat.jpg)
 
 <!--
 **bakriahmadridhwan/bakriahmadridhwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [**Next.js**](https://nextjs.org/) Framework
+  ![cat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThqZHVwZWxscW01ZDlwc2Y4N2plYWF0bThjenNtbHVqb2Nsa3J4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif)
